@@ -6,6 +6,7 @@ import './App.css';
 //components
 import Landing from './pages/Landing'
 import About from './pages/About'
+import Repertoire from './pages/Repertoire'
 
 import { Provider } from 'react-redux'
 import store from './store'
@@ -19,6 +20,13 @@ function App() {
           <Switch>
             <Route exact path='/' component={Landing} />
             <Route exact path='/about' component={About} />
+            <Route exact path='/repertoire' component={Repertoire} />
+            {/* <Route exact path='/about' component={About} />
+            <Route exact path='/about' component={About} />
+            <Route exact path='/about' component={About} />
+            <Route exact path='/about' component={About} />
+            <Route exact path='/about' component={About} />
+            <Route exact path='/about' component={About} /> */}
           </Switch>
         </div>
       </Router>

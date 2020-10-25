@@ -1,11 +1,13 @@
 import React from 'react'
 
-const greatDivas = () => {
+const GreatDivas = () => {
   return (
     <div>
-      The Great Divas
+      <h1>The Great Divas</h1>
+      <h1>The Great Divas</h1>
+      <h1>The Great Divas</h1>
     </div>
   )
 }
 
-export default greatDivas
+export default GreatDivas
