@@ -5,18 +5,9 @@ const repertoire = () => {
     <div>
       <p>
             The following are a list of songs and arias from the standard classical repertoire 
-            that range from beginning to advanced difficulty levels. After working on these songs myself, 
-            I have found that maintaining the appropriate repertoire can help a singer 
-            keep their voice on track! Just as an athlete must continue to stretch and exercise 
-            on a regular basis, singers must treat their instruments in the same respect. Many pieces 
-            on this list can also be adjusted to suit the singer's natural 'tessitura', or in other words 
-            it is the pitch range where it is the most comfortable to sing. </p>
-            
-            
-            <h2>Opera</h2>
-            
-            
+            that range from beginning to advanced difficulty levels. Many are for soprano voices, but some may be transposed to fit your natural range! </p>  
 
+            <h2>Opera</h2>
             <p>Be good to her, be kind from The Saint of Bleeker Street by Gian Carlo Menotti
             Deh vieni, non tardar from Le nozze di Figaro by Mozart
             Frère voyez... Du Gai Soleil from Werther by Massenet
@@ -33,8 +24,6 @@ const repertoire = () => {
             What Good Would The Moon Be? from Street Scene by Kurt Weill</p>
             
             <h2>Art Songs</h2>
-             
-            
             <p>Alleluja by Mozart 
             Caro mio ben by Giuseppe Giordani
             Come Ready and See Me by Richard Hundley
@@ -63,22 +52,15 @@ const repertoire = () => {
             O Mistress Mine
             Take, O take those lips away
             Fairy Lullaby</p>
-            
-            
-            
+  
             <h2>Musical Theatre</h2>
-            
-            
-            
             <p>Bridges of Madison County: Almost real
             Into the Woods: Cinderella, Rapunzel
             Once on this Island: Ti Moune
             West Side Story: I Feel Pretty, I Have a Love, One Hand, One Heart (duet), Tonight (duet)
             110 in the Shade: Is it Really Me?</p>
-            
-            
+
             <h1>Chinese Pop & Traditional</h1>
-            
             <p>我爱你中国 "I love you, China"
             改变自己"Change Myself"
             你怎么舍得我难过 "How could you leave me in sorrow?"
