@@ -11,7 +11,7 @@ const Contact = () => {
               type="text"
               name="name"
               id="name"
-              className={styles.formControl}
+              // className={styles.formControl}
               placeholder="john smith"
             />
           </div>
@@ -20,7 +20,7 @@ const Contact = () => {
               type="email"
               name="email"
               id="email"
-              className={styles.formControl}
+              // className={styles.formControl}
               placeholder="email@email.com"
             />
           </div>
@@ -29,7 +29,7 @@ const Contact = () => {
               name="message"
               id="message"
               rows="10"
-              className={styles.formControl}
+              // className={styles.formControl}
               placeholder="hello there"
             />
           </div>
