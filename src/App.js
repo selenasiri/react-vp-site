@@ -7,6 +7,7 @@ import './App.css';
 import Landing from './pages/Landing'
 import About from './pages/About'
 import Repertoire from './pages/Repertoire'
+import GreatDivas from './pages/GreatDivas'
 
 import { Provider } from 'react-redux'
 import store from './store'
@@ -21,12 +22,12 @@ function App() {
             <Route exact path='/' component={Landing} />
             <Route exact path='/about' component={About} />
             <Route exact path='/repertoire' component={Repertoire} />
-            {/* <Route exact path='/about' component={About} />
+            {/* <Route exact path='/great-divas' component={GreatDivas} /> */}
             <Route exact path='/about' component={About} />
             <Route exact path='/about' component={About} />
             <Route exact path='/about' component={About} />
             <Route exact path='/about' component={About} />
-            <Route exact path='/about' component={About} /> */}
+            <Route exact path='/about' component={About} />
           </Switch>
         </div>
       </Router>

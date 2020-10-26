@@ -16,10 +16,25 @@ class NavBar extends Component {
         <Link to="/" >Home <span class="sr-only">(current)</span></Link>
       </li>
       <li class="nav-item">
-        <Link to="/about">About</Link>
+    <Link to="/about">About</Link>
       </li>
       <li class="nav-item">
-        <Link to="greatDivas">The Great Divas</Link>
+        <Link to="great-divas">The Great Divas</Link>
+      </li>
+      <li class="nav-item">
+        <Link to="/repertoire">Repertoire</Link>
+      </li>
+      <li class="nav-item">
+        <Link to="/vocal-health">Vocal Health</Link>
+      </li>
+      <li class="nav-item">
+        <Link to="/resources">Resources</Link>
+      </li>
+      <li class="nav-item">
+        <Link to="/feedback">Feedback</Link>
+      </li>
+      <li class="nav-item">
+        <Link to="/contact">Contact</Link>
       </li>
     </ul>
     <span class="navbar-text">
