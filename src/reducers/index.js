@@ -1,10 +1,8 @@
 import { combineReducers } from 'redux'
-import songsReducer from './songsReducer'
-import selectedSongReducer from './selectedSongReducer'
+import artistReducer from './artistReducer'
 
 const rootReducer = combineReducers({
-  selectedSong: selectedSongReducer,
-  songs: songsReducer,
+  artist: artistReducer
 })
 
 export default rootReducer
